@@ -1,0 +1,12 @@
+name: cea_msa
+title: CEA MSA
+username: TOGN@lundbeck.com
+account: TOGN@lundbeck.com
+server: positconnect.sciencecloud.lundbeck
+hostUrl: https://positconnect.sciencecloud.lundbeck/__api__
+appId: 111
+bundleId: 549
+url: https://positconnect.sciencecloud.lundbeck/content/342af6a8-803a-4689-b14e-08f69c5743f7/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
