@@ -1,4 +1,4 @@
-This repository contains the R project for a Shiny app. The analysis is part of an early HTA of multiple system atrophy and the code is for a cost-effectiveness analysis, which allow users to define inputs and run the analysis. 
+This repository contains the R project for a Shiny app. The analysis is part of an early HTA of multiple system atrophy and the code is for a cost-effectiveness analysis, which allow users to define inputs and run the analysis. In addition, an R script and csv file is included for increased transparency, because it is now possible to download from the Shiny app all parameters passed through the PSA. The R script can be run to read the csv file. 
 
 The analysis is further described in a publication titled: Clinical, economic, and quality-of-life burden of multiple system atrophy: cost-effectiveness modelling for early health technology assessment
 
